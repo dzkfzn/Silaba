@@ -1,0 +1,36 @@
+PROSEDUR INSTALASI
+APLIKASI SILABA
+
+
+1. Install SQLServer terlebih dahulu di komputer Anda
+
+2. Attach database, dengan cara :
+   - Masuk ke SQLServer2000 --> Enterprise Manager
+   - Expand 'Microsoft SQL Servers'
+   - Expand '[local]\[WindowsNT]'
+   - Klik kanan pada folder Databases
+   - Pilih 'All task'
+   - Pilih 'Attach database'
+   - Pada button '...' untuk browse database yang akan diattach
+   - Tekan 'OK'
+   - Tekan 'Verify' (optional)
+   - Tekan 'OK' kembali
+   - Database telah berhasil diattach pada SQLServer
+
+3. Proses instalasi aplikasi :
+   - Buka folder 'Installer'
+   - Klik 'Setup'
+   - Klik 'Next' 3(tiga) kali
+   - Klik 'Close'
+   - Shortcut akan tampil di Desktop
+   - Klik 2 kali shortcut untuk menjalankan Aplikasi
+   - Aplikasi SILABA telah siap dijalankan pada komputer Anda
+
+4. UserID dan password untuk menjalankan aplikasi bisa Anda lihat
+   pada file LogIn dan Password.txt
+
+
+- SELAMAT MENJALANKAN APLIKASI SILABA -
+
+Regards,
+Dzaki dan Rizkiyah
